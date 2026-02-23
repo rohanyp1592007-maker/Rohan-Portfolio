@@ -2,7 +2,7 @@
 
 A world-class, production-ready developer portfolio built with React, Vite, Tailwind CSS v4, and framer-motion. Designed with a meticulous focus on minimalist luxury, pixel-perfect typography, and buttery-smooth micro-interactions.
 
-![Portfolio Preview](./src/assets/profile.jpg) <!-- Ensure you have a great preview image or replace this path -->
+ <!-- Ensure you have a great preview image or replace this path -->
 
 ## 💎 Premium Features
 
